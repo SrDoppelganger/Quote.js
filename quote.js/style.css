@@ -1,0 +1,26 @@
+body{
+    background-color: aliceblue;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.citacao{
+    text-align: center;
+}
+
+.gerar{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 16px;
+    padding: 10px 24px;
+    font-size: 26px;
+    text-align: center;
+}
+
+.gerar:hover{
+    background-color: rgb(96, 98, 100);
+    border: none;
+}
